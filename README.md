@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RaindiMg
+- 👋 Hi, I’m @RaindiMgl
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
